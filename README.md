@@ -1,6 +1,6 @@
 ## Olá Dev!  
 
-👨🏻‍💻 Estudante de ti na Brasil mobile School 
+📕 Estudante de ti na Brasil mobile School 
 
 ---
 
