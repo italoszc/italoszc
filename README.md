@@ -15,4 +15,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/italoszc/italoszc/output/github-contribution-grid-snake.svg">
 </picture>
 
+### 🤖Linguagens e Tecnologias
+
 
