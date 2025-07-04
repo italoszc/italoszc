@@ -4,7 +4,7 @@
 
 ---
 
-###📊𝗘𝘀𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝘀
+### 𝗘𝘀𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝘀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoszc&show_icon=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&icon=true&theme=radical)
