@@ -2,6 +2,8 @@
 
 👨🏻‍💻 Estudante de ti na Brasil mobile School 
 
+---
+
 📊𝗘𝘀𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝘀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoszc&show_icon=true&theme=radical)
