@@ -44,7 +44,7 @@
    title="Kotlin"
    width="30px" 
    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
     />
 
 <br/>
@@ -53,7 +53,7 @@
 ### 📊𝗘𝘀𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝘀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoszc&show_icon=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&icon=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italoszc&layout=compact&icon=true&theme=radical)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italoszc/italoszc/output/github-contribution-grid-snake-dark.svg">
